@@ -3,10 +3,10 @@ Assessment repository for Nexthink
 
 ## Getting Started
 The assestment consist of two diffrent tasks:
-1. The DataHandler solution is a simple .NET framework app with two simple projects, a libreary and a console UI.
-2. The Selfhealing task is a simple PowerShell script.
-  2.1 A separate .EXE application is provided to simulate TOURISTINFO process proposed by the assesment.
- 3. Please remember to set the project DataHandlerConsoleUI as a startup project, I have already done it but sometimes I found that this setting is missing.
+* The DataHandler solution is a simple .NET framework app with two simple projects, a libreary and a console UI.
+* The Selfhealing task is a simple PowerShell script.
+* A separate .EXE application is provided to simulate TOURISTINFO process proposed by the assesment.
+* Please remember to set the project DataHandlerConsoleUI as a startup project, I have already done it but sometimes I found that this setting is missing.
 
 ### Prerequisites
 - .NET Framework above 4.0
