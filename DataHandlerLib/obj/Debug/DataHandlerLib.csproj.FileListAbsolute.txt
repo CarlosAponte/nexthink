@@ -1,5 +1,5 @@
-C:\Ejercicios .NET\NexThink\nexthink\DataHandlerLib\bin\Debug\DataHandlerLib.dll
-C:\Ejercicios .NET\NexThink\nexthink\DataHandlerLib\bin\Debug\DataHandlerLib.pdb
-C:\Ejercicios .NET\NexThink\nexthink\DataHandlerLib\obj\Debug\DataHandlerLib.csprojAssemblyReference.cache
-C:\Ejercicios .NET\NexThink\nexthink\DataHandlerLib\obj\Debug\DataHandlerLib.dll
-C:\Ejercicios .NET\NexThink\nexthink\DataHandlerLib\obj\Debug\DataHandlerLib.pdb
+C:\Ejercicios .NET\NexThink\NexThink\DataHandlerLib\bin\Debug\DataHandlerLib.dll
+C:\Ejercicios .NET\NexThink\NexThink\DataHandlerLib\bin\Debug\DataHandlerLib.pdb
+C:\Ejercicios .NET\NexThink\NexThink\DataHandlerLib\obj\Debug\DataHandlerLib.csprojAssemblyReference.cache
+C:\Ejercicios .NET\NexThink\NexThink\DataHandlerLib\obj\Debug\DataHandlerLib.dll
+C:\Ejercicios .NET\NexThink\NexThink\DataHandlerLib\obj\Debug\DataHandlerLib.pdb
